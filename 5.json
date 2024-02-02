@@ -1,0 +1,11 @@
+{
+    "name": "Famous Ape #5",
+    "description": "Heyyyyoooo",
+    "image": "ipfs://QmaiMCmQtYmrjjY8NyYiz5h2qYUbu8xyLH3xoxLv1VZFzP/1865.png",
+    "attributes": [
+        {
+            "trait_type": "LEGENDARY",
+            "value": "Queen of the Fame"
+        }
+    ]
+}
