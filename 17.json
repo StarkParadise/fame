@@ -1,0 +1,11 @@
+{
+    "name": "Famous Ape #17",
+    "description": "Heyyyyoooo",
+    "image": "ipfs://QmaiMCmQtYmrjjY8NyYiz5h2qYUbu8xyLH3xoxLv1VZFzP/164.png",
+    "attributes": [
+        {
+            "trait_type": "LEGENDARY",
+            "value": "Fame"
+        }
+    ]
+}
